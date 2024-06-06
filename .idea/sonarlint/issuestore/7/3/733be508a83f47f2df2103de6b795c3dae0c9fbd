@@ -1,0 +1,13 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦Ï‘øÿÿÿÿ8•©›…Œ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨‰¼’şÿÿÿÿ8–©›…Œ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ù–üÿÿÿÿ8–©›…Œ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÿÉò8–©›…Œ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†â³Æûÿÿÿÿ8—©›…Œ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(À¢åüøÿÿÿÿ8©©›…Œ1
+T
+java:S1135"2Complete the task associated to this TODO comment.(æÆµıùÿÿÿÿ8«©›…Œ1
+X	java:S125"<This block of commented-out lines of code should be removed.(áËÏÀ8Ø×Ü…Œ1
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8ı¬×£Œ1

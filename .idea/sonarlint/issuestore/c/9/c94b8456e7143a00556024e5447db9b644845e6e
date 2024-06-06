@@ -1,0 +1,13 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ˆã8ú¸§«Œ1
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(«œĞ–ıÿÿÿÿ8¿¥«Œ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(·ş’±8“¿¥«Œ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ªàã÷8“¿¥«Œ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(…Ôç‘8”¿¥«Œ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œÂğ«üÿÿÿÿ8•¿¥«Œ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ã„¬ øÿÿÿÿ8•¿¥«Œ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ä³ûÓùÿÿÿÿ8•¿¥«Œ1
+F
+java:S5413<")Verify that "remove()" is used correctly.(™°Øğ8è¯µ«Œ1

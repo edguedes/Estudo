@@ -1,0 +1,13 @@
+
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(¾Ö«–ùÿÿÿÿ8¶ú1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾Ö«–ùÿÿÿÿ8°¸ú1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ûï–ÿÿÿÿÿ8±¸ú1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¦§ ‹ÿÿÿÿÿ8²¸ú1
+X	java:S125"<This block of commented-out lines of code should be removed.(ã–À³8Èåú1
+O
+java:S1135'"2Complete the task associated to this TODO comment.(”çÇ—8°º­„Œ1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Éåú1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8˜€ú1
